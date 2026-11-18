@@ -42,5 +42,3 @@ app = st.App(
     ]
 )
 
-if __name__ == "__main__" and not st.runtime.exists():
-    app.run()
